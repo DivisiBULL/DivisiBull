@@ -4,10 +4,15 @@ Lover of data and the stories they tell. Committed to continuous learning in the
 
 ### Technical Skills:
 • **Languages:** Python, SQL
+
 • **Data Processing:** NumPy, Pandas, SciPy, Image Processing
+
 • **Data Visualization:** Matplotlib, Seaborn
+
 • **Environments:** Conda, Git, Jupyter Notebook, Visual Studio Code, Google Colab
+
 • **Machine Learning:** Statsmodels, Scikit-learn, XGBoost, Predictive Modeling, Linear/Logistic Regression, Classification, Clustering, Decision Tree, Random Forest, Support Vector Machines, Principal Component Analysis, K-Nearest Neighbors
+
 • **Deep Learning:** TensorFlow, Keras, Multilayer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, Natural Language Processing
 
 
